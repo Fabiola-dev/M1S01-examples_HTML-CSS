@@ -1,0 +1,53 @@
+header {
+    background:#fff1d7;
+    display: flex;
+    justify-content: center;
+}
+
+.logo {
+    width: 250px;
+    border-radius: 70%;
+    box-shadow: 60px -16px #f6b794;
+}
+
+.container {
+    display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 940px;
+	margin: 0 auto;
+	padding: 50px 0;
+}
+
+.container figure {
+	display: inline-block;
+	text-align: center;
+	width: 30%;
+	vertical-align: top;
+	margin: 0 1.5%;
+	padding: 30px 20px;
+	box-sizing: content-box;
+	border: 2px solid #000000;
+	border-radius: 10px;
+}
+
+input {
+    font-weight: bold;
+    margin-top: 10px;
+
+}
+
+footer {
+    background: #fff1d7;
+}
+
+/* Página do carrinho */
+.titulo {
+    margin: 10px;
+}
+
+.botao {
+    margin-top: 15px;
+    padding: 5px;
+    font-weight: bold;
+}

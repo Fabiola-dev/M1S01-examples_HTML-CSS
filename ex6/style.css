@@ -1,0 +1,31 @@
+main {
+    width: 940px;
+    margin: 0 auto;
+}
+
+form {
+    margin: 30px 0;
+    border: 1px solid #BBBBBB;
+    padding: 10px 15px;
+}
+
+form label, form p {
+    display: block;
+    font-size: 20px;
+    margin: 0 0 10px;
+}
+
+.input-padrao {
+    display: block;
+    margin: 0 0 10px;
+    padding: 10px 15px;
+}
+
+.checkbox {
+    margin: 20px 0;
+}
+
+#botao {
+    font-size: 15px;
+    padding: 10px 10px;
+}

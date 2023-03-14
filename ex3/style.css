@@ -1,0 +1,29 @@
+body {
+    background-color: #e6d8cb;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.titulo {
+    font-size: 2em;
+    color: #cfbe27;
+    text-align: center;
+
+}
+
+.imagem {
+    width: 200px;
+    margin: auto;
+    display: block;
+    border-style: groove;
+    border-radius: 60%;
+    box-shadow: 10px 10px 23px -7px rgba(0,0,0,0.75);
+}
+
+h2 {
+    font-size: 1.4em;
+    color: #ac2005;
+}
+ 
+li a {
+    text-decoration: none;
+}
