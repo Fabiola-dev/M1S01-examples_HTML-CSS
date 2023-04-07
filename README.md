@@ -3,7 +3,7 @@
 ## Creating a simple Curriculum Vitae and listing products of a store (using HTML & CSS).
 This project introduces the basics of dealing with HTML and CSS. Each folder is progress on the project when compared to the previous one.
 
-As these are the initial exercises of module 1 of the course taught by LAB365 in conjunction with SENAC-SC (Brazil) for front-end, I have not separated them into a single project. This makes it easier to understand step by step.
+As these are the initial exercises of module 1 of the course taught by SENAI-SC + LAB365 (Brazil) for front-end, I have not separated them into a single project. This makes it easier to understand step by step.
 
 ## Table of Contents
 - Summary of project content
